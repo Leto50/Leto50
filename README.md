@@ -7,8 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leto50&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leto50&theme=dark&hide_border=false)<br/>
-![](https://vercel-leto50.vercel.app/api/top-langs/?username=Leto50&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![Top Langs](https://vercel-leto50.vercel.app/api/top-langs/?username=Leto50)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://vercel-leto50.vercel.app/api/top-langs/?username=Leto50&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
